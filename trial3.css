@@ -1,0 +1,41 @@
+
+#ourbox {
+
+    margin: 0em 0em 0em 0em;
+    height: 300px;
+    background-color:#ff0000;
+    width:500px;
+
+
+}
+
+#ourbody {
+  margin: 0em 0em 0em 0em;
+}
+
+.flag {
+
+    margin: 0em 0em 0em 0em;
+    height: 300px;
+    width:500px;
+
+
+    }
+
+    #top {
+
+        background-color: black;
+
+    }
+
+    #middle {
+
+            background-color:#ff0000;
+
+    }
+
+    #bottom {
+
+            background-color: #ffd700;
+
+    }
